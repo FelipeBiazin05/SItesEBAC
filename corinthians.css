@@ -172,3 +172,9 @@ form button {
 form button:hover {
     background-color: #313030;
 }
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    padding: 18px 0;
+}
